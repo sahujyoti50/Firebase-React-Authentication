@@ -5,7 +5,7 @@ Tech Stack:
 4. React Toastify.
 5. Router Protection with Auth Token.
 6. useNavigate hook for navigation.
-7. session storage to remember login handle logout.
+7. session storage to remember logged In User.
 
 OutCome:
 
