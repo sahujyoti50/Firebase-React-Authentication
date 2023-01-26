@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.navBar{
+  margin-top:50px;
+  margin:auto;
+  background: linear-gradient(to right,aquamarine,aqua);
+  padding:20px;
+}
+.link{
+  text-decoration: none;
+  padding:10px;
+  border-radius: 10px;
+  color:white;
+  margin:10px;
+  background-color:rgb(18, 122, 186);
+}
